@@ -3,5 +3,5 @@
 
 #Except...
 
-!/src
+!src/
 !.gitignore
